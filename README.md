@@ -1,5 +1,26 @@
-## Hi there 👋
+#  Hi, I'm Muhammad Azhar
 
+## Software Engineer | AI & Machine Learning Enthusiast
+
+Welcome to my GitHub profile!
+
+### Skills
+- Python
+- TensorFlow
+- Machine Learning
+- Deep Learning
+- Software Engineering
+
+### Currently Learning
+- Computer Vision
+- CNN
+- Deep Learning
+- AI Research
+
+### Connect with me
+- LinkedIn (Coming Soon)
+
+Thanks for visiting my GitHub profile!
 <!--
 **azhar-gujjar/azhar-gujjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
